@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hemantchoudhary/react-virtualization/static/css/main.f855e6bc.css",
+    "main.js": "/Hemantchoudhary/react-virtualization/static/js/main.489a86b1.js",
+    "static/js/453.93ba6d12.chunk.js": "/Hemantchoudhary/react-virtualization/static/js/453.93ba6d12.chunk.js",
+    "index.html": "/Hemantchoudhary/react-virtualization/index.html",
+    "main.f855e6bc.css.map": "/Hemantchoudhary/react-virtualization/static/css/main.f855e6bc.css.map",
+    "main.489a86b1.js.map": "/Hemantchoudhary/react-virtualization/static/js/main.489a86b1.js.map",
+    "453.93ba6d12.chunk.js.map": "/Hemantchoudhary/react-virtualization/static/js/453.93ba6d12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.489a86b1.js"
+  ]
+}
