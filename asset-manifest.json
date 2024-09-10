@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Hemantchoudhary/react-virtualization/app/static/css/main.f855e6bc.css",
-    "main.js": "/Hemantchoudhary/react-virtualization/app/static/js/main.18b2f18f.js",
-    "static/js/453.93ba6d12.chunk.js": "/Hemantchoudhary/react-virtualization/app/static/js/453.93ba6d12.chunk.js",
-    "index.html": "/Hemantchoudhary/react-virtualization/app/index.html",
-    "main.f855e6bc.css.map": "/Hemantchoudhary/react-virtualization/app/static/css/main.f855e6bc.css.map",
-    "main.18b2f18f.js.map": "/Hemantchoudhary/react-virtualization/app/static/js/main.18b2f18f.js.map",
-    "453.93ba6d12.chunk.js.map": "/Hemantchoudhary/react-virtualization/app/static/js/453.93ba6d12.chunk.js.map"
+    "main.css": "/github.io/react-virtualization/app/static/css/main.f855e6bc.css",
+    "main.js": "/github.io/react-virtualization/app/static/js/main.0820ae4d.js",
+    "static/js/453.93ba6d12.chunk.js": "/github.io/react-virtualization/app/static/js/453.93ba6d12.chunk.js",
+    "index.html": "/github.io/react-virtualization/app/index.html",
+    "main.f855e6bc.css.map": "/github.io/react-virtualization/app/static/css/main.f855e6bc.css.map",
+    "main.0820ae4d.js.map": "/github.io/react-virtualization/app/static/js/main.0820ae4d.js.map",
+    "453.93ba6d12.chunk.js.map": "/github.io/react-virtualization/app/static/js/453.93ba6d12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.18b2f18f.js"
+    "static/js/main.0820ae4d.js"
   ]
 }
