@@ -17,7 +17,7 @@ const VirtualizedList = () => {
   const fetchItems = useCallback(async () => {
     setLoading(true);
     try {
-      const response = await axios.get('http://localhost:5005/api/items', {
+      const response = await axios.get('https://react-virutalization-backend-1.onrender.com/api/items', {
         params: {
           start: items.length,
           limit: 100
